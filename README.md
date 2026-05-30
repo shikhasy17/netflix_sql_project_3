@@ -14,7 +14,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 - Explored and categorized content based on specific criteria and keywords.
 
 
-## Schema
+## Schema 
 
 ```sql
 DROP TABLE IF EXISTS netflix;
