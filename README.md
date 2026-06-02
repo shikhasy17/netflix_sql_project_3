@@ -1,4 +1,4 @@
-# Netflix Movies and TV Shows Data Analysis using SQL
+# Netflix Content Intelligence & Viewer Trends Analysis
 
 <img width="2226" height="678" alt="logo" src="https://github.com/user-attachments/assets/450d1923-75dd-4776-ae9d-b81080cd658f" />
 
